@@ -8,7 +8,7 @@ lerna-debug.log*
 
 # Build outputs
 build/
-dist/output.css
+output.css
 
 # Runtime data
 pids

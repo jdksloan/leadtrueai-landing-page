@@ -7,8 +7,8 @@
     "dev": "npm run build-css && vite",
     "build": "npm run build-css:prod && vite build",
     "preview": "vite preview",
-    "build-css": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
-    "build-css:prod": "tailwindcss -i ./src/input.css -o ./dist/output.css --minify"
+    "build-css": "tailwindcss -i ./src/input.css -o ./output.css --watch",
+    "build-css:prod": "tailwindcss -i ./src/input.css -o ./output.css --minify"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.0",
