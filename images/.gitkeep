@@ -1,14 +1,31 @@
 # Images directory
 Place your images here for the Lead True AI landing page.
 
-Recommended images:
-- favicon.ico (website icon)
-- ai-leads.jpg/png (AI lead generation visual)
-- lead-quality.jpg/png (lead quality/targeting visual)
-- services.jpg/png (services and solutions visual)
-- about-us.jpg/png (team or company image)
+## Image Requirements for AI Training & Leadership Site
 
-Image dimensions should be optimized for web:
-- Hero/main images: 1200x630px
-- Section images: 800x450px (16:9 aspect ratio)
-- Favicon: 32x32px
+### Favicon
+- **favicon.ico** (32x32px) - Lead True AI logo or "LT" monogram
+
+### Section Images (800x450px, 16:9 aspect ratio)
+
+#### AI Workshop Image
+**Filename:** `ai-workshop.jpg/png`
+**Description:** Modern training workshop scene showing developers using AI coding tools on laptops, with code on screens, collaborative learning environment, professional but engaging atmosphere, dark modern aesthetic with blue accent lighting
+
+#### Training Levels Image
+**Filename:** `training-levels.jpg/png`
+**Description:** Visual representation of skill progression - abstract staircase or pathway leading upward, with AI/technology symbols, gradual progression from basic to advanced levels, clean minimalist design with gradient from dark to light
+
+#### Training Programs Image
+**Filename:** `training-programs.jpg/png`
+**Description:** Diverse group of professionals in a modern training setting, laptops open with code/AI interfaces visible, presenter at front with large screen showing AI development tools, collaborative and professional learning environment
+
+#### About Us Image
+**Filename:** `about-usabout-us.jpg/png`
+**Description:** Professional headshot or team photo of Lead True AI trainers/experts, or abstract representation of AI expertise and leadership - interconnected nodes, neural network patterns, or modern office setting with technology focus
+
+### Image Style Guidelines
+- **Color palette:** Dark backgrounds (#0f0f0f, #1a1a1a) with blue accents (#3b82f6)
+- **Mood:** Professional, innovative, cutting-edge, approachable
+- **Focus:** AI technology, software development, team collaboration, learning
+- **Style:** Modern, clean, tech-forward with subtle gradients
