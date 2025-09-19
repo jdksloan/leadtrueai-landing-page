@@ -1,0 +1,14 @@
+# Images directory
+Place your images here for the Lead True AI landing page.
+
+Recommended images:
+- favicon.ico (website icon)
+- ai-leads.jpg/png (AI lead generation visual)
+- lead-quality.jpg/png (lead quality/targeting visual)
+- services.jpg/png (services and solutions visual)
+- about-us.jpg/png (team or company image)
+
+Image dimensions should be optimized for web:
+- Hero/main images: 1200x630px
+- Section images: 800x450px (16:9 aspect ratio)
+- Favicon: 32x32px
