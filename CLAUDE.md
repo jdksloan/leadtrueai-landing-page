@@ -25,7 +25,7 @@ This is a static HTML landing page for Lead True AI built with:
 ```
 ├── index.html           # Main landing page
 ├── index.js             # JavaScript functionality
-├── output.css           # Generated Tailwind CSS (ignored by git)
+├── output.css           # Generated Tailwind CSS (committed for GitHub Pages)
 ├── src/
 │   └── input.css        # Tailwind CSS source with custom styles
 ├── images/              # Static images and assets
